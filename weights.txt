@@ -1,0 +1,6 @@
+Weights in this order (distance to teacher; distance to whiteboard; distance from windows; distance from the door)
+use numbers > 0 and < 1 (use . instead of , for decimal numbers)
+0
+0
+0
+1
